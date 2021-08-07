@@ -2,7 +2,7 @@
 
 Under Development 🏗️ 🚧
 
-Building an log-structured merge tree storage engine with the following components:
+Building a log-structured merge tree storage engine with the following components:
 - [X] Memtable
 - [ ] WAL (write ahead log)
 - [ ] SSTable
